@@ -1,4 +1,4 @@
-🌱### Hey, I am Francesco 👋☕. Bonjour, je m'appelle Francesco 👋🍷. Ciao, [io sono Francesco](https://www.youtube.com/watch?v=Jt2fv7ort_g)👋🍝. 
+### Hey, I am Francesco 👋☕. Bonjour, je m'appelle Francesco 👋🍷. Ciao, [io sono Francesco](https://www.youtube.com/watch?v=Jt2fv7ort_g)👋🍝. 
 
 Passionated in sustainability 🌍♻ [long time before](https://www.youtube.com/channel/UCrLDNeNHGKjvlukPQYQCqPg) James Cameron's Avatar and Greta Thunberg.
 
