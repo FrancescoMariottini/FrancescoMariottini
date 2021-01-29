@@ -10,7 +10,7 @@ Remotely finishing my PhD on solar energy ☀🔋 at [Loughborough University](h
 - 💬 Ask me about data processing & quality assessment pipelines (e.g. Pandas, NumPy & PostgreSQL) on GitHub or [Linkedin](https://www.linkedin.com/in/francescomariottini/)
 - 🎲 As hobby, spent years in front of a screen to [improve board games](https://boardgamegeek.com/user/Mithrandir82) to play with my family and friends **without** a screen.    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMariottini)](https://github.com/FrancescoMariottini/github-readme-stats)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMariottini)](https://github.com/FrancescoMariottini/github-readme-stats)--->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoMariottini)](https://github.com/FrancescoMariottini/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMariottini&layout=compact)](https://github.com/FrancescoMariottini/github-readme-stats)
