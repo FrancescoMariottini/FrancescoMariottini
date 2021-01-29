@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hey, I am Francesco 👋☕. Bonjour, je m'appelle Francesco 👋🍷. Ciao, [io sono Francesco](https://www.youtube.com/watch?v=Jt2fv7ort_g)👋🍝. 
 
-<!--
-**FrancescoMariottini/FrancescoMariottini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionated in sustainability 🌍♻ [long time before](https://www.youtube.com/channel/UCrLDNeNHGKjvlukPQYQCqPg) James Cameron's Avatar and Greta Thunberg.
+
+Remotely finishing my PhD on solar energy ☀🔋 at [Loughborough University](https://repository.lboro.ac.uk/articles/conference_contribution/Evaluation_of_uncertainty_sources_and_propagation_from_irradiance_sensors_to_PV_energy_production/9555833), improving as green data scientist 💻📈🔍 at [BeCode Brussels](https://becode.org/about/campuses/brussels/) and actively looking for colleagues to collaborate with on sustainable energy projects.
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoMariottini)](https://github.com/FrancescoMariottini/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
