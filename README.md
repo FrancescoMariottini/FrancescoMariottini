@@ -6,7 +6,7 @@ Remotely finishing the writing of my PhD thesis about solar energy ☀🔋 at [L
 
 - 🔭 I’m currently working on smart clear days identification & [impact of irradiance measurement quality on photovoltaics energy yield](https://repository.lboro.ac.uk/articles/conference_contribution/Evaluation_of_uncertainty_sources_and_propagation_from_irradiance_sensors_to_PV_energy_production/9555833).
 - 🌱 I’m currently improving on machine learning applications for image processing (scikit-image and OpenCV).
-- 👯 I’m looking to collaborate on data tools to ease sustainable energy projects and analysis (e.g. [pvlib](https://pvlib-python.readthedocs.io/en/stable/).
+- 👯 I’m looking to collaborate on data tools to ease sustainable energy projects and analysis (e.g. [pvlib](https://pvlib-python.readthedocs.io/en/stable/)).
 - 💬 Ask me about data processing & quality assessment pipelines (e.g. Pandas, NumPy & PostgreSQL) on GitHub or [Linkedin](https://www.linkedin.com/in/francescomariottini/)
 - 🎲 As hobby, spent years in front of a screen to [improve board games](https://boardgamegeek.com/user/Mithrandir82) to play with my family and friends **without** a screen.    
 
