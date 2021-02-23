@@ -8,7 +8,7 @@ Remotely finishing the writing of my PhD thesis about solar energy ☀🔋 at [L
 - 🌱 I’m currently improving on machine learning applications for image processing (scikit-image and OpenCV).
 - 👯 I’m looking to collaborate on data tools to ease sustainable energy projects and analysis (e.g. [pvlib](https://pvlib-python.readthedocs.io/en/stable/)).
 - 💬 Ask me about data processing & quality assessment pipelines (e.g. Pandas, NumPy & PostgreSQL) on GitHub or [Linkedin](https://www.linkedin.com/in/francescomariottini/)
-- 🎲 As hobby, spent years in front of a screen to [improve board games](https://boardgamegeek.com/user/Mithrandir82) to play with my family and friends **without** a screen.    
+- 🎲🎨 As hobby, spent years in front of a screen to [improve board games](https://boardgamegeek.com/user/Mithrandir82) and paint miniatures to play with my family and friends **without** a screen and improve their overall playing experience.   
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMariottini)](https://github.com/FrancescoMariottini/github-readme-stats)--->
 
