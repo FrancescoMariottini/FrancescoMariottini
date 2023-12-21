@@ -8,7 +8,9 @@ Continuously improving as data scientist 📈🔍 and Python developer and activ
 - 💬 Ask me about data processing & quality assessment pipelines (e.g. Pandas, NumPy & PostgreSQL) on GitHub or [Linkedin](https://www.linkedin.com/in/francescomariottini/).
 - 🌳 As hobby I like to walk, run, bike and do sport (e.g. swimming in the nature), possibly with other people.
 - 🎲 I like to create and improve for the sake of other, e.g. [updating board games rules](https://boardgamegeek.com/user/Mithrandir82).
-- 🎨 I [paint miniatures](https://drive.google.com/drive/folders/1qc4YbXmMh4F4Q8mO-b8rzTL3fhWDRYAi?usp=sharing) to relax before going to bed.
+- 🎨 I like painting miniatures to relax before going to bed.
+
+![Drag Racing](https://cf.geekdo-images.com/LsXe-pJjXbsJBlQixEv8xQ__imagepage/img/-4WZH7XAEOCyOiI-4rk2JKIY5Sg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7255690.jpg))
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMariottini)](https://github.com/FrancescoMariottini/github-readme-stats)--->
 
